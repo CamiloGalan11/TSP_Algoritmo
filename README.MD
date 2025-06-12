@@ -6,6 +6,7 @@
 ## Instalacion
 
 ```bash
+  https://github.com/CamiloGalan11/TSP_Algoritmo.git
   Python 3.13.3
   python -m pip install --user networkx matplotlib
 ```
